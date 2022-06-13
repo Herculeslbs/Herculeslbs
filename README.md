@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Olá! Eu sou o <a href="https://www.linkedin.com/in/herculeslbs" target="_blank"><i>Hercules Lima</i></a>, sou Desenvolvedor Web & Desenvolvedor Java full-stack Jr.😎 </h2>
+<h2>Olá! 
+  Eu sou o <a href="https://www.linkedin.com/in/herculeslbs" target="_blank"><i>Hercules Lima</i></a>, sou Desenvolvedor Web & Desenvolvedor Java full-stack Jr.😎 </h2>
 <br>
 
 
