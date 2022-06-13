@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Olá! Eu sou o <a href="www.linkedin.com/in/herculeslbs" target="_blank"><i>Hercules Lima</i></a>, sou Desenvolvedor Web & Desenvolvedor Java full-stack Jr. 👋</h2>
+<h2>Olá! Eu sou o <a href="www.linkedin.com/in/herculeslbs" target="_blank"><i>Hercules Lima</i></a>, sou Desenvolvedor Web & Desenvolvedor Java full-stack Jr.😎 </h2>
 <br>
 
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
  <div> 
     <a href="mailto:herculeslbs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="www.linkedin.com/in/herculeslbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/herculeslbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 </div> <br> <br>
   
