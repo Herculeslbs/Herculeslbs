@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br>
                               
           
- ## 🖥️ Tecnologias e Ferramentas: 
+ ## 🖥️  Tecnologias e Ferramentas: 
 <div>
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
