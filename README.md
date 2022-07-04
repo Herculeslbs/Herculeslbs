@@ -59,5 +59,7 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/Herculeslbs/Herculeslbs/blob/output/github-contribution-grid-snake.svg)
    
 </div>
-  
-
+  <br> <br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Herculeslbs"><p>
+<br> <br>
+<h2 align="center">Registre sua visita clicando aqui 👉👉 <img  src="https://profile-counter.glitch.me/Herculeslbs/count.svg?"  /><h2>
