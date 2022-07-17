@@ -55,8 +55,7 @@ Here are some ideas to get you started:
   <img align="right" alt="bruno-gif" width="1000" style="border-radius:50px;" 
        src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
    <div/>
-   <br> <br><br> <br>
-<br> <br><br> <br><br> <br><br> <br><br>
+   <br> <br>
  
   
   ## Commits:
