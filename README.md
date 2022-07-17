@@ -56,8 +56,7 @@ Here are some ideas to get you started:
        src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
    <div/>
    <br> <br><br> <br>
-<br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>   <br>  <br><br><br>           
-<br><br>
+<br> <br><br> <br><br> <br><br> <br><br>
  
   
   ## Commits:
