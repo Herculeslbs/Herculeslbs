@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
    <br> <br>
    <div>
-  <img align="right" alt="bruno-gif" width="800" style="border-radius:50px;" 
+  <img align="right" alt="bruno-gif" width="860" style="border-radius:50px;" 
        src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
    <div/>
    <br> <br> <br> <br>
