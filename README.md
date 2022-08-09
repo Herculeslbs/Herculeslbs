@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title = "Material-UI"/></code>
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "Redux"/></code>          
-  <code><img width="40px" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" title = "Java" /></code>
+  <code><img width="40px" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title = "Java" /></code>
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring Tool"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
