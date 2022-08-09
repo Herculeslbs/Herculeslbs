@@ -25,7 +25,7 @@ Here are some ideas to get you started:
                               
           
  ## Tecnologias e Ferramentas: 
-<div>
+<div align-item = "center">
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
