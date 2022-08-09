@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "Bootstrap"/></code>
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
-  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title = "Material-UI />
-  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "Redux />          
+  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title = "Material-UI" />
+  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "Redux" />          
   <code><img width="40px" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title = "Java" /></code>
   <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYsql"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring Tool"/></code>
