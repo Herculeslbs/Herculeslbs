@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring Tool"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
+  <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title = "Angular"/></code>
           
             
           
