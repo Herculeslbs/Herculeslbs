@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VScode"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
   <code><img width="40px" height="38" src="https://img.icons8.com/color/256/angularjs.png" title = "Angular"/></code>
+  <code><img width="40px" height="38" src="https://img.icons8.com/color/256/typescript.png" title = "Angular"/></code>
           
             
           
